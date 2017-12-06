@@ -105,3 +105,6 @@ ENV/
 
 # Database Files
 db.sqlite3
+
+# Notes
+notes.txt
